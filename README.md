@@ -48,5 +48,3 @@ Every dataset has a message, every chart, every metric, every slice has a story 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=david-theanalyst&show_icons=true&locale=en" alt="david-theanalyst" /></p>
 
-
-Thanks for stopping by!
