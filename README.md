@@ -28,10 +28,7 @@ Beyond the code, here's what's keeping me busy:
 
 
 <h3 align="center"> I believe data is only as powerful as the story it tells.</h3>
-<h4 align="center"> Every dataset has a message, every chart, every metric, every slice has a story — and I love helping people hear it clearly.</h3>
-
-
-
+<h4 align="center"> Every dataset has a message, every chart, every metric, every slice has a story and I love helping people hear it clearly.</h3>
 
 
 <h3 align="left">Connect with me:</h3>
