@@ -6,11 +6,11 @@
 
 Welcome to my GitHub!
 
-I'm a **Data Analyst** with a background in **Biochemistry and Molecular Biology**, passionate about uncovering insights in data that help people and businesses make better decisions. I work across **Power BI**, **SQL**, and **Excel** to clean, explore, and visualize data that tells meaningful stories. I love transforming messy datasets into sharp insights that drive clarity and action.
+I'm a **Data Analyst** with a background in **Biochemistry and Molecular Biology**, passionate about uncovering insights in data that help people and businesses make better decisions. I specialize in transforming complex raw data into crystal-clear insights and actionable solutions through meticulous cleaning, impactful dashboards, and compelling storytelling. 
 
-📊 From deep dives into data cleaning to building sleek dashboards, I bring a strong analytical mindset, and a passion for storytelling. I also create **synthetic datasets** from scratch when needed seeing because good analysis starts with good data, even if you have to build it yourself.
+📊 From deep dives into data cleaning to building sleek dashboards, I bring a strong analytical mindset, and a passion for storytelling. My unique ability to even craft realistic synthetic datasets ensures a robust foundation for solving any challenge because good analysis starts with good data, even if you have to build it yourself.
 
-I specialize in transforming complex raw data into crystal-clear insights and actionable solutions through meticulous cleaning, impactful dashboards, and compelling storytelling. My unique ability to even craft realistic synthetic datasets ensures a robust foundation for solving any business challenge.
+I work across **Power BI**, **SQL**, and **Excel** to clean, explore, and visualize data that tells meaningful stories. I love transforming messy datasets into sharp insights that drive clarity and action.
 
 
 Beyond the code, here's what's keeping me busy:
@@ -27,9 +27,10 @@ Beyond the code, here's what's keeping me busy:
 
 
 
-## 💡 I believe data is only as powerful as the story it tells.
+<h3 align="center"> I believe data is only as powerful as the story it tells.</h3>
+<h4 align="center"> Every dataset has a message, every chart, every metric, every slice has a story — and I love helping people hear it clearly.</h3>
 
-Every dataset has a message, every chart, every metric, every slice has a story — and I love helping people hear it clearly.
+
 
 
 
