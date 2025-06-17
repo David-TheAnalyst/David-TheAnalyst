@@ -5,7 +5,7 @@
 
 Welcome to my GitHub!
 
-I'm a **Data Analyst** with a background in **Biochemistry and Molecular Biology**, passionate about uncovering insights in data that help people and businesses make better decisions. I specialize in transforming complex raw data into crystal-clear insights and actionable solutions through meticulous cleaning, impactful dashboards, and compelling storytelling. 
+[David Ojo](https://www.linkedin.com/in/david-ojo-984557231/) is a **Data Analyst** with a background in **Biochemistry and Molecular Biology**, passionate about uncovering insights in data that help people and businesses make better decisions. I specialize in transforming complex raw data into crystal-clear insights and actionable solutions through meticulous cleaning, impactful dashboards, and compelling storytelling. 
 
 📊 From deep dives into data cleaning to building sleek dashboards, I bring a strong analytical mindset, and a passion for storytelling. My unique ability to even craft realistic synthetic datasets ensures a robust foundation for solving any challenge because good analysis starts with good data, even if you have to build it yourself.
 
