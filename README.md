@@ -1,4 +1,3 @@
-[![MasterHead](https://www.freepik.com/vectors/data-science)]
 
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center"> 🎯 Data Analyst | 📊 Insight Enthusiast | 🧠 Lifelong Learner</h3>
